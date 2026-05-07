@@ -1,0 +1,16 @@
+[11-Apr-2026 05:37:22 America/Boise] PHP Warning:  Undefined array key "phone" in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php on line 7
+[11-Apr-2026 05:37:22 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gm.com','$2y$10$TlHXFMBBiUf76KDeHc6ny.IHLl8C0/KFzhmFTT6fCDlHqdDU5KCPy')' at line 1 in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php:12
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php(12): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php on line 12
+[11-Apr-2026 05:38:44 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gm.com','$2y$10$AdOrOf6f/Duq7Mjk96wPG.i0EyrkRGw8.KXin/9AeHpqwsZEV4rHu')' at line 1 in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php:13
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php(13): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php on line 13
+[11-Apr-2026 05:39:43 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gm.com','$2y$10$UzuzewIPbngw0OwLuW206ePPns8WOOH.L2pIchNnx3EB02dcIe71S')' at line 1 in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php:13
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php(13): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Customer/register.php on line 13

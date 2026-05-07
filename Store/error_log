@@ -1,0 +1,30 @@
+[10-Apr-2026 15:33:42 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY created_at DESC' at line 1 in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/watford.php:10
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/watford.php(10): mysqli->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/watford.php on line 10
+[11-Apr-2026 05:19:27 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'field list' in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php:10
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php(10): mysqli->prepare('\r\n    SELECT r....')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php on line 10
+[11-Apr-2026 05:21:18 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'field list' in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php:12
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php(12): mysqli->prepare('\r\n    SELECT r....')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php on line 12
+[11-Apr-2026 05:21:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'field list' in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php:12
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php(12): mysqli->prepare('\r\n    SELECT r....')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php on line 12
+[11-Apr-2026 05:21:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'field list' in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php:12
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php(12): mysqli->prepare('\r\n    SELECT r....')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php on line 12
+[11-Apr-2026 05:22:09 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.name' in 'field list' in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php:12
+Stack trace:
+#0 /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php(12): mysqli->prepare('\r\n    SELECT r....')
+#1 {main}
+  thrown in /home3/stlmcoin/public_html/shellxtracker/Archi_Projectt/Warehouse/Store/orders_london.php on line 12
